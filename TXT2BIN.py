@@ -43,8 +43,8 @@ def Tab():
 
 
 # Size window size
-key.geometry('1010x250')         # normal size
-key.maxsize(width=1010, height=250)      # maximum size
+key.geometry('1900x250')         # normal size
+key.maxsize(width=1200, height=350)      # maximum size
 key.minsize(width= 1010 , height = 250)     # minimum size
 # end window size
 
